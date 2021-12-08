@@ -8,10 +8,10 @@ meio da comunicação de um servidro que integra a todos os clientes conectados
 no momento. 
 
 ## Layout
-<img width="450" heigth="500" src="src/image/image1.png"> 
-<img width="450" heigth="500" src="src/image/image2.png"> 
-<img width="450" heigth="500" src="src/image/image3.png"> 
-<img width="450" heigth="500" src="src/image/image4.png"> 
+<img width="450" heigth="500" src="src/images/image1.png"> 
+<img width="450" heigth="500" src="src/images/image2.png"> 
+<img width="450" heigth="500" src="src/images/image3.png"> 
+<img width="450" heigth="500" src="src/images/image4.png"> 
 
 ## Tecnologia utilizadas
 Foi utilizado apenas uma linguagem para desenvolvimento do trabalho solicitado,
